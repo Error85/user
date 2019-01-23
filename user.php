@@ -3,13 +3,10 @@ echo $red."[+] WARNING !!!".$t;
 echo $kuning."[+] Program ANU".$t;
 echo $kuning."[+] Resiko Sepenuhnya Ditanggung ANU..".$t.$ijo.$t;
 
-
 $vip1= false;
 $we_stat = true;
 $msgwe = "[•] Update VIP v2.0 ";
-
-$data= [
-
+$data= ['wahyu', 'ubay', 'jaka' 
 ];
 
 $baca_plus=$red."
@@ -27,20 +24,4 @@ $mc=$br."
 ".$t;
 $msg_mc=$ijo."[+] Enjoy...";
 $stat_mc=true;
-
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
