@@ -21,4 +21,5 @@ echo $kuning."[+] Resiko Sepenuhnya Ditanggung ANU..".$t.$ijo.$t;
 $msgwe = "[•] Update VIP v2.0 ";
 $we_stat = true;
 $vip1= false;
+$data= [];
 ?>
