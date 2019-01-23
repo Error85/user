@@ -5,8 +5,7 @@ echo $kuning."[+] Resiko Sepenuhnya Ditanggung ANU..".$t.$ijo.$t;
 $vip1= false;
 $we_stat = true;
 $msgwe = "[•] Update VIP v2.0 ";
-$data= [
-];
+$data= [];
 $baca_plus=$red."
 ──── █▀▄ ▄▀▄ ▄▀ ▄▀▄────$kuning █▀▄ █── █─█ ▄▀▀────$red
 ──── █▀█ █▀█ █─ █▀█────$kuning █─█ █─▄ █─█ ─▀▄────$red
